@@ -1,0 +1,32 @@
+fastapi
+uvicorn[standard]
+
+# Environment variables
+python-dotenv
+
+# PDF & document parsing
+pdfplumber
+python-docx
+PyMuPDF
+
+# Text processing & NLP
+nltk
+spacy
+textstat
+
+# Resume parsing & utilities
+regex
+rapidfuzz
+
+# AI / LLM (Ollama local calls)
+requests
+
+# Data handling
+pydantic
+numpy
+
+# File uploads
+python-multipart
+
+# Optional (for future DB usage)
+sqlalchemy
